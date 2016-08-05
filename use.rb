@@ -1,0 +1,1 @@
+print("good #{%x{calc}}")
